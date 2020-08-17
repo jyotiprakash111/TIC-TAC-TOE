@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "spanishapp",
+    "slug": "Spanish",
+    "privacy": "public",
+    "sdkVersion": "34.0.0",
+    "platforms": [
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/3dslogonew.png",
+    "splash": {
+      "image": "./assets/3dslogonew.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#fff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.LCO.SpanishApp"
+    }
+  }
+}
